@@ -105,6 +105,15 @@ If data is invalid → show error and terminate
 
 ---
 
+## BPMN Diagram – Product Complaint Process
+
+Below is the BPMN 2.0 diagram modeling the product complaint handling process.  
+It includes a loop for incomplete submissions and ends with a decision sent to the customer.
+
+![Product Complaint BPMN Diagram](images/bpmn_diagram.png)
+
+
+
 ## 📄 Created with:
 - Enterprise Architect 17.1 (Trial)
 - Diagram format: PNG

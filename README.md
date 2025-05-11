@@ -4,7 +4,7 @@ This repository contains 7 fundamental UML diagrams created in Enterprise Archit
 
 ---
 
-## 1. 🎯 Use Case Diagram – Online Ordering System
+## 1. Use Case Diagram – Online Ordering System
 
 **Context**:  
 The customer can browse products, add them to the cart, log in, place an order, and cancel it.  
@@ -17,7 +17,7 @@ An employee can approve or reject an order.
 
 ---
 
-## 2. 🔄 Activity Diagram – New User Registration
+## 2. Activity Diagram – New User Registration
 
 **Steps**:  
 Enter registration data → Validate data → Create account → Send welcome email  
@@ -27,7 +27,7 @@ If data is invalid → show error and terminate
 
 ---
 
-## 3. 🧱 Class Diagram – Library Application
+## 3. Class Diagram – Library Application
 
 **Classes**:  
 - `Reader`: firstName, lastName, methods: `borrowBook()`, `returnBook()`  
@@ -42,7 +42,7 @@ If data is invalid → show error and terminate
 
 ---
 
-## 4. ⏱ Sequence Diagram – Login Process
+## 4. Sequence Diagram – Login Process
 
 **Objects**: User, LoginController, AuthService, Database  
 **Messages**:  
@@ -55,7 +55,7 @@ If data is invalid → show error and terminate
 
 ---
 
-## 5. 🔁 State Diagram – Document Lifecycle
+## 5. State Diagram – Document Lifecycle
 
 **States**:  
 - Created  
@@ -70,7 +70,7 @@ If data is invalid → show error and terminate
 
 ---
 
-## 6. 🧩 Component Diagram – HR System
+## 6. Component Diagram – HR System
 
 **Components**:  
 - Login Module  
@@ -85,7 +85,7 @@ If data is invalid → show error and terminate
 
 ---
 
-## 7. 📦 Deployment Diagram – Web Application
+## 7. Deployment Diagram – Web Application
 
 **Nodes**:  
 - Client Browser  

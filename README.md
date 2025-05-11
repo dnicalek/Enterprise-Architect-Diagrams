@@ -105,10 +105,10 @@ If data is invalid → show error and terminate
 
 ---
 
-## BPMN Diagram – Product Complaint Process
+## BPMN Diagram – Online Order Process
 
-Below is the BPMN 2.0 diagram modeling the product complaint handling process.  
-It includes a loop for incomplete submissions and ends with a decision sent to the customer.
+The following BPMN 2.0 diagram models the process of placing an online order.  
+It includes checking product availability, conditional flow based on stock status, and order confirmation or cancellation.
 
 ![Product Complaint BPMN Diagram](images/bpmn_diagram.png)
 
